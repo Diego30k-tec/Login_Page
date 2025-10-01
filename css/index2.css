@@ -1,0 +1,5 @@
+@media screen and (min-witdh:768px){
+    .carousel-item div{
+        max-width: 50%;
+    }
+}
